@@ -1,4 +1,5 @@
 # Astrosat Tech Talk Series - 07/09/2018
+NOTE: was rescheduled to 14/09/2018
 
 ## Description
 As part of the Astorsat internal Tech Talk series, the notebook here was presented to describe the challenges, limitations, and options available when automatically processing Landsat 8 (and optical satellite images in general) for display in user interpretable and friendly manner.
