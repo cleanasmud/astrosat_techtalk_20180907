@@ -22,3 +22,5 @@ To run the presentation in the browser:
 ```
 jupyter nbconvert Tech_Talk_20180907.ipynb --to slides --post serve
 ```
+
+You can also just view the prerendered notebook in a browser by opening the HTML file in said browser.
